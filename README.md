@@ -1,4 +1,4 @@
-# linux-authperms
+# Linux AuthPerms
 In this project, my **task** is to audit the permissions on the files in `/home/researcher2/projects` directory for the user named `researcher2`.
 The user `researcher2` is part of the `research_team group`. My task was to ultimately check the permissions for all the files and directories (this includes hidden files).
 
